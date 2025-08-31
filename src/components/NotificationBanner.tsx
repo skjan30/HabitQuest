@@ -23,7 +23,7 @@ export function NotificationBanner({ quests }: NotificationBannerProps) {
       }
     }
 
-    // Show banner on Sunday evening for weekly quests
+    // Check for uncompleted weekly quests on Sunday evening
     if (now.getDay() === 0 && currentHour >= 17) {
       const uncompletedWeekly = quests.filter(q => q.type === 'weekly' && !q.completed);
       if (uncompletedWeekly.length > 0) {

@@ -44,13 +44,13 @@ function App() {
           <div className="flex items-center justify-between mb-4">
             <div className="w-8"></div>
             <div className="flex items-center space-x-3">
-            <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-blue-500 rounded-full flex items-center justify-center shadow-lg">
-              <Sword className="w-6 h-6 text-white" />
+              <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-blue-500 rounded-full flex items-center justify-center shadow-lg">
+                <Sword className="w-6 h-6 text-white" />
+              </div>
+              <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-cyan-400 bg-clip-text text-transparent">
+                HabitQuest
+              </h1>
             </div>
-            <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-cyan-400 bg-clip-text text-transparent">
-              HabitQuest
-            </h1>
-          </div>
             <NotificationSettings onPermissionChange={setNotificationsEnabled} />
           </div>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto">
