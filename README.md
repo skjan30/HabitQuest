@@ -47,3 +47,19 @@ Then open http://localhost:5173
 (or the port shown in your terminal) in your browser.
 
 
+Author’s Note
+
+This theme and project were created by Srithik Kumar,
+a middle schooler at Windemere Ranch Middle School.
+If you copy, please give credit to Srithik Kumar (GitHub: @skjan30)  
+
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+This project is published for visibility only.  
+All rights are reserved by **Srithik Kumar (GitHub: [@skjan30](https://github.com/skjan30))**.  
+Copying, modifying, or redistributing this code without permission is prohibited.
+
+
