@@ -27,23 +27,23 @@
 ## 🚀 Installation & Setup
 
 1. **Clone the repository**  
-   ```bash
+   
    git clone https://github.com/skjan30/HabitQuest.git
-   ```
 
-2. **Navigate into the project folder**  
-   ```bash
-   cd HabitQuest
-   ```
+    Navigate into the project folder
 
-3. **Install dependencies**  
-   ```bash
-   npm install
-   ```
+cd HabitQuest
 
-4. **Start the development server**  
-   ```bash
-   npm run dev
-   ```
+Install dependencies
 
-Then open **http://localhost:5173** (or the port shown in your terminal) in your browser.  
+npm install
+
+Start the development server 
+
+npm run dev
+
+Then open http://localhost:5173
+
+(or the port shown in your terminal) in your browser.
+
+
