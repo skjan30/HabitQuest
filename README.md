@@ -1,6 +1,8 @@
 # HabitQuest Technologies
 
+Note: This project was made using Bolt – a modern scaffolding tool that helps kickstart React + TypeScript projects with best practices and performance-focused defaults.
 ### Core Framework & Build Tools
+
 - **Vite** – Fast development server and build tool  
 - **React 18** – Frontend JavaScript library with hooks  
 - **TypeScript** – Type safety and improved development experience  
@@ -57,6 +59,7 @@ If you copy, please give credit to Srithik Kumar (GitHub: @skjan30)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bolt](https://img.shields.io/badge/Bolt-1E90FF?logo=thunderbolt&logoColor=white)
 
 This project is published for visibility only.  
 All rights are reserved by **Srithik Kumar (GitHub: [@skjan30](https://github.com/skjan30))**.  
